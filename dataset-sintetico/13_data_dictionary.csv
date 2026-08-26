@@ -1,0 +1,16 @@
+﻿table;column;type;description;model_role
+04_daily_record;sleep_quality;categorical;"Calidad de sueño; puede ser nulo en escenarios incompletos.";direct feature
+04_daily_record;sleep_hours;numeric;"Horas sintéticas de sueño; no existen en el CSV base original.";direct feature
+04_daily_record;wake_state;categorical;Estado al despertar.;direct feature
+04_daily_record;regulation_level;categorical;Nivel general de regulación del día.;"historical/current feature; not target"
+04_daily_record;alert_level;categorical;Nivel de alerta.;direct feature
+04_daily_record;routine_change;boolean;Cambio de rutina conocido.;direct feature
+04_daily_record;gastrointestinal_status;categorical;Estado gastrointestinal.;direct feature
+04_daily_record;observed_behavior;text tags;Tags de comportamiento separados por |.;direct/NLP-derived feature
+04_daily_record;exceptional_event;boolean;Evento excepcional/contextual.;direct feature
+01_child;sensory_profile;categorical/text;Perfil sensorial predominante sintético.;personalization feature
+12_ml_prediction_dataset;dysregulation_events_7d;integer;Eventos históricos estrictamente anteriores a prediction_at en 7 días.;derived feature
+12_ml_prediction_dataset;target_dysregulation_24h;boolean 0/1;1 si existe evento en (prediction_at, prediction_at+24h].;target
+12_ml_prediction_dataset;scenario_id;QA metadata;Identifica escenario sintético intencional. NO usar como feature.;exclude
+12_ml_prediction_dataset;risk_score_demo;float;"Score ilustrativo generado por regla sintética; no representa rendimiento clínico.";demo output only
+12_ml_prediction_dataset;confidence_score_demo;float;Confianza ilustrativa basada en completitud e historial.;demo output only

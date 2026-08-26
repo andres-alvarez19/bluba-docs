@@ -1,0 +1,24 @@
+﻿scenario_id;child_external_case_id;start_date;end_date;scenario_type;expected_outcome;notes;use_for_model
+SCN-001;SYN-001;2026-05-15;2026-05-19;GRADUAL_DETERIORATION_WITH_EVENT;Dysregulation event;Deterioro progresivo durante varios días seguido por un evento.;NO - QA/demo metadata only
+SCN-002;SYN-001;2026-06-07;2026-06-09;ROUTINE_CHANGE_NO_EVENT;No dysregulation event;Cambio de rutina que se resuelve sin desregulación.;NO - QA/demo metadata only
+SCN-003;SYN-002;2026-05-10;2026-05-14;ACCUMULATION_WITH_EVENT;Dysregulation event;Acumulación simultánea de múltiples factores antes de un evento.;NO - QA/demo metadata only
+SCN-004;SYN-002;2026-06-14;2026-06-17;INCOMPLETE_NO_EVENT;No dysregulation event;Información incompleta sin evento posterior.;NO - QA/demo metadata only
+SCN-005;SYN-003;2026-05-20;2026-05-23;SLEEP_ALTERED_NO_EVENT;No dysregulation event;Sueño alterado sin evento posterior.;NO - QA/demo metadata only
+SCN-006;SYN-003;2026-06-04;2026-06-07;ROUTINE_CHANGE_WITH_EVENT;Dysregulation event;Cambio de rutina con evento posterior.;NO - QA/demo metadata only
+SCN-007;SYN-004;2026-05-12;2026-05-15;INCOMPLETE_WITH_EVENT;Dysregulation event;Información crítica incompleta antes de un evento.;NO - QA/demo metadata only
+SCN-008;SYN-005;2026-05-25;2026-05-29;GRADUAL_DETERIORATION_NO_EVENT;No dysregulation event;Deterioro progresivo durante varios días sin evento.;NO - QA/demo metadata only
+SCN-009;SYN-005;2026-06-19;2026-06-23;ACCUMULATION_WITH_EVENT;Dysregulation event;Acumulación simultánea de múltiples factores antes de un evento.;NO - QA/demo metadata only
+SCN-010;SYN-006;2026-05-08;2026-05-11;SLEEP_ALTERED_WITH_EVENT;Dysregulation event;Varias noches de sueño alterado seguidas por un evento.;NO - QA/demo metadata only
+SCN-011;SYN-006;2026-05-30;2026-06-01;ROUTINE_CHANGE_NO_EVENT;No dysregulation event;Cambio de rutina que se resuelve sin desregulación.;NO - QA/demo metadata only
+SCN-012;SYN-007;2026-05-18;2026-05-22;ACCUMULATION_NO_EVENT;No dysregulation event;Acumulación de factores sin evento posterior.;NO - QA/demo metadata only
+SCN-013;SYN-007;2026-06-12;2026-06-15;ROUTINE_CHANGE_WITH_EVENT;Dysregulation event;Cambio de rutina con evento posterior.;NO - QA/demo metadata only
+SCN-014;SYN-008;2026-05-15;2026-05-18;ROUTINE_CHANGE_WITH_EVENT;Dysregulation event;Cambio de rutina con evento posterior.;NO - QA/demo metadata only
+SCN-015;SYN-008;2026-06-09;2026-06-12;SLEEP_ALTERED_NO_EVENT;No dysregulation event;Sueño alterado sin evento posterior.;NO - QA/demo metadata only
+SCN-016;SYN-009;2026-05-05;2026-05-08;INCOMPLETE_NO_EVENT;No dysregulation event;Información incompleta sin evento posterior.;NO - QA/demo metadata only
+SCN-017;SYN-009;2026-05-28;2026-06-01;GRADUAL_DETERIORATION_WITH_EVENT;Dysregulation event;Deterioro progresivo durante varios días seguido por un evento.;NO - QA/demo metadata only
+SCN-018;SYN-010;2026-05-22;2026-05-25;SLEEP_ALTERED_WITH_EVENT;Dysregulation event;Varias noches de sueño alterado seguidas por un evento.;NO - QA/demo metadata only
+SCN-019;SYN-010;2026-06-16;2026-06-20;ACCUMULATION_NO_EVENT;No dysregulation event;Acumulación de factores sin evento posterior.;NO - QA/demo metadata only
+SCN-020;SYN-011;2026-05-10;2026-05-14;GRADUAL_DETERIORATION_NO_EVENT;No dysregulation event;Deterioro progresivo durante varios días sin evento.;NO - QA/demo metadata only
+SCN-021;SYN-011;2026-06-05;2026-06-09;INCOMPLETE_WITH_EVENT;Dysregulation event;Información crítica incompleta antes de un evento.;NO - QA/demo metadata only
+SCN-022;SYN-012;2026-05-06;2026-05-10;ACCUMULATION_WITH_EVENT;Dysregulation event;Acumulación simultánea de múltiples factores antes de un evento.;NO - QA/demo metadata only
+SCN-023;SYN-012;2026-05-26;2026-05-29;ROUTINE_CHANGE_NO_EVENT;No dysregulation event;Cambio de rutina que se resuelve sin desregulación.;NO - QA/demo metadata only

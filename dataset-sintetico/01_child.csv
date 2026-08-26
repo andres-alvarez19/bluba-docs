@@ -1,0 +1,13 @@
+﻿id;external_case_id;age_range;primary_diagnosis;sensory_profile;created_at;updated_at
+CH-001;SYN-001;4-5 años;Trastorno del Espectro Autista (TEA);Buscador Sensorial Vestibular y Propioceptivo;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+CH-002;SYN-002;6-7 años;Trastorno del Espectro Autista (TEA);Hipersensible Auditivo y Evitador Táctil;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+CH-003;SYN-003;8-9 años;Trastorno del Espectro Autista (TEA);Hiporreactivo Propioceptivo y Visual;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+CH-004;SYN-004;5-6 años;Trastorno del Espectro Autista (TEA);Hipersensible Gustativo y Olfativo;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+CH-005;SYN-005;7-8 años;Trastorno del Espectro Autista (TEA);Hipersensible Auditivo y Buscador Propioceptivo;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+CH-006;SYN-006;9-10 años;Trastorno del Espectro Autista (TEA);Buscador Vestibular y Sensibilidad Táctil;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+CH-007;SYN-007;4-5 años;Trastorno del Espectro Autista (TEA);Buscador Sensorial Vestibular y Propioceptivo;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+CH-008;SYN-008;6-7 años;Trastorno del Espectro Autista (TEA);Hipersensible Auditivo y Evitador Táctil;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+CH-009;SYN-009;8-9 años;Trastorno del Espectro Autista (TEA);Hiporreactivo Propioceptivo y Visual;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+CH-010;SYN-010;5-6 años;Trastorno del Espectro Autista (TEA);Hipersensible Gustativo y Olfativo;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+CH-011;SYN-011;7-8 años;Trastorno del Espectro Autista (TEA);Hipersensible Auditivo y Buscador Propioceptivo;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+CH-012;SYN-012;9-10 años;Trastorno del Espectro Autista (TEA);Buscador Vestibular y Sensibilidad Táctil;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00

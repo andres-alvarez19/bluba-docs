@@ -1,0 +1,9 @@
+﻿id;child_id;created_by_user_id;name;description;category;source_type;is_active;created_at;updated_at
+INT-001;;USR-PRO-001;Anticipación visual de transición;Presentar el cambio con apoyo visual y aviso previo.;TRANSITION;VALIDATED_CATALOG;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+INT-002;;USR-PRO-001;Espacio de baja estimulación;Ofrecer temporalmente un espacio con menor carga sensorial.;SENSORY;VALIDATED_CATALOG;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+INT-003;;USR-PRO-001;Atenuación de estímulos auditivos;Reducir temporalmente la exposición a estímulos auditivos intensos.;SENSORY;VALIDATED_CATALOG;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+INT-004;;USR-PRO-001;Pausa sensorial propioceptiva;Pausa breve con actividad propioceptiva previamente acordada.;REGULATION;VALIDATED_CATALOG;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+INT-005;;USR-PRO-004;Ajuste temporal de demanda;Reducir temporalmente la complejidad o duración de una demanda.;DEMAND;VALIDATED_CATALOG;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+INT-006;;USR-PRO-005;Rutina de regulación guiada;Aplicar una secuencia de regulación previamente conocida por el niño.;REGULATION;VALIDATED_CATALOG;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+INT-007;;USR-PRO-001;Adaptación de presentación de alimentos;Modificar presentación y exposición al alimento sin forzar interacción.;FEEDING;VALIDATED_CATALOG;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+INT-008;;USR-PRO-005;Comunicación anticipada del cambio;Explicar el cambio con lenguaje simple y apoyos conocidos.;TRANSITION;VALIDATED_CATALOG;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00

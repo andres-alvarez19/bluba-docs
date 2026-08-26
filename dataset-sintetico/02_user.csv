@@ -1,0 +1,24 @@
+﻿id;name;email;is_active;created_at;updated_at
+USR-FAM-001;Familiar sintético 01;familia01@synthetic.bluba.local;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+USR-FAM-002;Familiar sintético 02;familia02@synthetic.bluba.local;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+USR-FAM-003;Familiar sintético 03;familia03@synthetic.bluba.local;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+USR-FAM-004;Familiar sintético 04;familia04@synthetic.bluba.local;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+USR-FAM-005;Familiar sintético 05;familia05@synthetic.bluba.local;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+USR-FAM-006;Familiar sintético 06;familia06@synthetic.bluba.local;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+USR-FAM-007;Familiar sintético 07;familia07@synthetic.bluba.local;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+USR-FAM-008;Familiar sintético 08;familia08@synthetic.bluba.local;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+USR-FAM-009;Familiar sintético 09;familia09@synthetic.bluba.local;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+USR-FAM-010;Familiar sintético 10;familia10@synthetic.bluba.local;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+USR-FAM-011;Familiar sintético 11;familia11@synthetic.bluba.local;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+USR-FAM-012;Familiar sintético 12;familia12@synthetic.bluba.local;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+USR-EDU-001;Educador sintético 01;educacion01@synthetic.bluba.local;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+USR-EDU-002;Educador sintético 02;educacion02@synthetic.bluba.local;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+USR-EDU-003;Educador sintético 03;educacion03@synthetic.bluba.local;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+USR-EDU-004;Educador sintético 04;educacion04@synthetic.bluba.local;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+USR-EDU-005;Educador sintético 05;educacion05@synthetic.bluba.local;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+USR-EDU-006;Educador sintético 06;educacion06@synthetic.bluba.local;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+USR-PRO-001;Terapeuta Ocupacional sintético 01;profesional01@synthetic.bluba.local;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+USR-PRO-002;Fonoaudiólogo sintético 02;profesional02@synthetic.bluba.local;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+USR-PRO-003;Psicopedagogo sintético 03;profesional03@synthetic.bluba.local;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+USR-PRO-004;Psicólogo sintético 04;profesional04@synthetic.bluba.local;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00
+USR-PRO-005;Educador Diferencial sintético 05;profesional05@synthetic.bluba.local;True;2026-04-25T12:00:00-04:00;2026-04-25T12:00:00-04:00

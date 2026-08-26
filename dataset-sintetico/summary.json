@@ -1,0 +1,27 @@
+{
+  "seed": 20260826,
+  "children": 12,
+  "calendar_days": 60,
+  "potential_child_days": 720,
+  "daily_records": 699,
+  "missing_full_day_records": 21,
+  "professional_sessions": 180,
+  "dysregulation_events": 16,
+  "risk_predictions": 660,
+  "prediction_positive_targets": 16,
+  "prediction_rows": 660,
+  "intervention_results": 34,
+  "scenarios": 23,
+  "scenario_types": {
+    "GRADUAL_DETERIORATION_WITH_EVENT": 2,
+    "ROUTINE_CHANGE_NO_EVENT": 3,
+    "ACCUMULATION_WITH_EVENT": 3,
+    "INCOMPLETE_NO_EVENT": 2,
+    "SLEEP_ALTERED_NO_EVENT": 2,
+    "ROUTINE_CHANGE_WITH_EVENT": 3,
+    "INCOMPLETE_WITH_EVENT": 2,
+    "GRADUAL_DETERIORATION_NO_EVENT": 2,
+    "SLEEP_ALTERED_WITH_EVENT": 2,
+    "ACCUMULATION_NO_EVENT": 2
+  }
+}
